@@ -1,5 +1,4 @@
-##
-Task 3 (Bank Marketing Prediction)
+## Task 3 (Bank Marketing Prediction)
 This project uses a decision tree classifier to predict whether a client will subscribe to a term deposit based on the UCI Bank Marketing dataset.
 
 Overview
